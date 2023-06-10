@@ -1,12 +1,14 @@
 [
   {
     "title": "Unicef",
-    "description": "🇧",
+    "description": "International relief organization",
+    "address": "0xd8dA6BF26964aF9D7eEd9e03E53415D37aA96045",
     "keywords": "regional indicator symbol letter b"
   },
   {
     "title": "The Last Mile",
     "description": "",
+    "address": "0xd8dA6BF26964aF9D7eEd9e03E53415D37aA96045",
     "keywords": "prison reform justice org criminal organization"
   }
 ]
