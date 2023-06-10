@@ -2,6 +2,7 @@ import { useEffect } from "react";
 
 const RedirectLinks = {
   "/code": "https://github.com/Spoyte/DonateDAO",
+  "/app": "https://near.social/#/donating.near/widget/DonateDAO.main",
 
 
 };
