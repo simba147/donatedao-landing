@@ -3,6 +3,8 @@ import { useEffect } from "react";
 const RedirectLinks = {
   "/code": "https://github.com/Spoyte/DonateDAO",
   "/app": "https://near.social/#/donating.near/widget/DonateDAO.main",
+  "/landing": "https://github.com/codingshot/donatedao-landing",
+  "/social": "https://donating.near.social",
 
 
 };
