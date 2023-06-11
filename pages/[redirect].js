@@ -5,6 +5,7 @@ const RedirectLinks = {
   "/app": "https://test.near.social/#/donating.testnet/widget/DonateTest.main",
   "/landing": "https://github.com/codingshot/donatedao-landing",
   "/social": "https://donating.near.social",
+  "/demo": "https://youtu.be/EXrpRyvAINc",
 
 
 };
